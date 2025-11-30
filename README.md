@@ -7,7 +7,7 @@
   修复了随着每个客户端连接而累积的服务器端内存泄漏问题
 
 ```
-curl -Ls https://raw.githubusercontent.com/eishare/tuic-hy2-node.js-python/main/hy2.sh | sed 's/\r$//' | bash
+hysteria2://5rnF]~]jRzz6HYT1L=WG@87.106.105.24:9424?sni=www.bing.com&alpn=h3&insecure=1#Hy2-Bing
 ```
 
 
